@@ -1,0 +1,27 @@
+import turtle
+t=turtle.Turtle()
+for _ in range(5):
+    t.forward(100)
+    t.right(144)
+turtle.done()
+
+
+
+
+import turtle
+t=turtle.Turtle()
+for _ in range(10):
+    t.forward(100)
+    t.right(108)
+    t.forward(100)
+    t.right(72) 
+    t.forward(100)
+    t.right(72)
+    t.forward(100)
+    t.right(72)
+    t.forward(100)
+    t.right(72) 
+turtle.done()
+
+     
+
