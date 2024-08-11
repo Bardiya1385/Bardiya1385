@@ -1,8 +1,1 @@
-nnumber=10
-binery=bin(number)
-print(binery)
 
-
-number=14
-binery=bin(number)
-print(binery)
